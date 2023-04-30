@@ -39,8 +39,7 @@
 		"vscode": {
 		  // Add the IDs of extensions you want installed when the container is created.
 		"extensions": [
-			"batisteo.vscode-django",
-			"ms-azuretools.vscode-docker",
+			"damildrizzy.fastapi-snippets",
 			"MS-CEINTL.vscode-language-pack-ja",
 			"Gruntfuggly.todo-tree",
 			"eamodio.gitlens",
